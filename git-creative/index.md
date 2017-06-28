@@ -8,6 +8,11 @@ curl -u anothergithubber https://api.github.com/user/repos -d "{\"name\":\"$repo
 ```
 
 ```bash
+chmod +x git-create
+./git-create new-repo
+```
+
+```bash
 mkdir new-repo && cd new-repo
 ```
 
