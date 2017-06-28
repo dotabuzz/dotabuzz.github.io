@@ -34,3 +34,5 @@ git commit -m "Initial"
 ```bash
 git push origin gh-pages
 ```
+
+Credit to [Raine](https://coderwall.com/p/mnwcog/create-new-github-repo-from-command-line)
