@@ -1,3 +1,4 @@
+```bash
 #!/bin/bash
 
 ./git-create $1
@@ -17,3 +18,6 @@ git commit -m "First commit"
 git remote add origin git@github.com:anothergithubber/$1.git
 
 npm run deploy
+```
+
+[git-create](https://anothergithubber.github.io/git-creative/)
