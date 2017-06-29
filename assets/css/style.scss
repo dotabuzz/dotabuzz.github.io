@@ -3,17 +3,17 @@
 
 $header-heading-color: #000;
 
+.test {
+  height: 20px;
+  width: 100%;
+  background: #000;
+}
+
 @import "{{ site.theme }}";
 @import "local-sass";
 
 body {
   font-family: 'Montserrat', sans-serif;
-}
-
-.test {
-  height: 20px;
-  width: 100%;
-  background: #000;
 }
 
 
