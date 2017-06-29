@@ -4,6 +4,7 @@
 $header-heading-color: #000;
 
 @import "{{ site.theme }}";
+@import "{{ local-sass }}";
 
 body {
   font-family: 'Montserrat', sans-serif;
