@@ -4,5 +4,3 @@ ReactDOM.render(
   document.getElementById('root')
 );
 ```
-
-[https://github.com/anothergithubber/anothergithubber.github.io](https://github.com/anothergithubber/anothergithubber.github.io)
