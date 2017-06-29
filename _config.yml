@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: "The title"
 description: "A short description of the site's purpose"
+sass:
+    sass_dir: _sass
+    style: compressed
