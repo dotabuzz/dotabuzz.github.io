@@ -11,12 +11,12 @@
 
 @media (min-width: 380px){
     .right-nav {
-        float: left;
+        visibility: hidden;
     }
 }
 
 @media (min-width: 410px){
     .site-footer-social {
-        float: left;
+        visibility: hidden;
     }
 }
