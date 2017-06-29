@@ -5,16 +5,3 @@
 .site-footer-social {
  float: right;
 }
-
-@media (min-width: 380px){
-    .right-nav {
-        float: left;
-    }
-}
-
-$breakpoint-tablet: 410px;
-@media (min-width: $breakpoint-tablet) {
-    .right-nav {
-        float: left;
-    }
-}
