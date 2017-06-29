@@ -9,8 +9,14 @@
  float: right;
 }
 
-@media (min-width: 380px){
+@media screen and (min-width: 380px){
     .right-nav {
+        float: left;
+    }
+}
+
+@media screen and (min-width: 380px){
+    .site-footer-social {
         float: left;
     }
 }
