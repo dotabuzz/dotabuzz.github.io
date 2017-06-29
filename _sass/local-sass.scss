@@ -1,3 +1,9 @@
+@include small {
+ .right-nav {
+   visibility: hidden;
+ }
+}
+
 .right-nav {
  float: right;
 }
