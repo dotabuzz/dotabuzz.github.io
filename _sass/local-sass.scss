@@ -23,7 +23,7 @@
 
 $breakpoint-tablet: 768px;
 @media (min-width: $breakpoint-tablet) {
-    .site-footer-social {
+    .right-nav {
         visibility: hidden;
     }
 }
