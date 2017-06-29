@@ -1,6 +1,9 @@
-```javascript
-ReactDOM.render(
-  <h1>Hello, world!</h1>,
-  document.getElementById('root')
-);
-```
+All work and no play makes Jack a dull boy
+All work and no play makes Jack a dull boy
+All work and no play makes Jack a dull boy
+All work and no play makes Jack a dull boy
+All work and no play makes Jack a dull boy
+All work and no play makes Jack a dull boy
+All work and no play makes Jack a dull boy
+All work and no play makes Jack a dull boy
+All work and no play makes Jack a dull boy
