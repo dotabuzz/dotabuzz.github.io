@@ -1,7 +1,24 @@
+@include large {
+ .nav-wrapper {
+  max-width: 64rem;
+  padding: 2rem 6rem;
+  margin: 0 auto;
+  font-size: 1.1rem;
+ } 
+}
+
+@include medium {
+ .nav-wrapper {
+  padding: 2rem 4rem;
+  font-size: 1.1rem;
+ } 
+}
+
 @include small {
- .right-nav {
-   visibility: hidden;
- }
+ .nav-wrapper {
+  padding: 2rem 1rem;
+  font-size: 1rem;
+ } 
 }
 
 .right-nav {
