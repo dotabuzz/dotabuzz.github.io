@@ -9,19 +9,13 @@
 
 @media (min-width: 380px){
     .right-nav {
-        visibility: hidden;
+        float: left;
     }
 }
 
-@media (min-width: 410px){
-    .site-footer-social {
-        visibility: hidden;
-    }
-}
-
-$breakpoint-tablet: 768px;
+$breakpoint-tablet: 410px;
 @media (min-width: $breakpoint-tablet) {
     .right-nav {
-        visibility: hidden;
+        float: left;
     }
 }
