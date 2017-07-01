@@ -74,7 +74,20 @@ li.dropdown {
     display: block;
 }
 
+.clearfix:before,
+.clearfix:after {
+    content: "";
+    display: table;
+} 
 
+.clearfix:after {
+    clear: both;
+}
+
+/* IE 6 & 7 */
+.clearfix {
+    zoom: 1;
+}
 
 
 
